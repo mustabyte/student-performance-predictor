@@ -4,6 +4,12 @@ A machine learning web application that predicts students' exam scores based on 
 
 Built using **Python, Scikit-learn, Pandas, and Streamlit**.
 
+## 🌐 Live Demo
+
+Try the deployed Student Performance Predictor here:
+
+🔗 [Launch Student Performance Predictor](https://mustabyte-student-performance-predictor.streamlit.app/)
+
 ## Project Overview
 
 This project uses regression-based machine learning to predict a student's exam score from 19 input features, including study hours, attendance, previous scores, motivation, access to resources, and other factors.
